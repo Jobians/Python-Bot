@@ -3,14 +3,6 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/teletips/FileToLink?style=for-the-badge&color=yellow" alt="Stars">
-    <img src="https://img.shields.io/github/forks/teletips/FileToLink?style=for-the-badge&color=green" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/teletips/FileToLink?style=for-the-badge&color=yellow" alt="Watchers"> <br>
-    <img src="https://img.shields.io/github/license/teletips/FileToLink?style=for-the-badge&color=green" alt="License">
-    <img src="https://img.shields.io/github/repo-size/teletips/FileToLink?style=for-the-badge&color=yellow" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/teletips/FileToLink?style=for-the-badge&color=green" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/teletips/FileToLink?style=for-the-badge&color=yellow" alt="Issues">
-</p>  
 
 ## WHAT CAN THIS BOT DO
 Is it a nuisance to send huge files to others? File To Link Bot is for you.This bot will help you to provide shorten links for different types of files you send.
