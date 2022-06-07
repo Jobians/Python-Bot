@@ -32,11 +32,3 @@ Is it a nuisance to send huge files to others? File To Link Bot is for you.This 
 ```
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
-
-## Friendly Warning
-
-- You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
-```
-##Credits
-- [File To Link Telegram bot by TeLe TiPs] (https://github.com/teletips/FileToLink)
-```
