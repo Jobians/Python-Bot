@@ -1,8 +1,8 @@
 {
-    "name": "FileToLinkTeLeTiPs",
+    "name": "Python Telegram Bot",
     "description": "Bot to provide links of different types of files you send.",
-    "website": "https://FileToLinkTeLeTiPs/",
-    "repository": "https://github.com/Thakshaka/FileToLinkTeLeTiPs",
+    "website": "https://jobians.top",
+    "repository": "https://github.com/jobians/python-bot",
     "env": {
           "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true}
     },
